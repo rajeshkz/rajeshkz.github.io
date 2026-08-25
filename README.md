@@ -10,5 +10,10 @@ git restore --source=multi-tenancy --worktree -- .github
 git add .github
 git commit -m "Sync .github from multi-tenancy"
 ```
+Command to add to an existing commit
+```
+git commit --amend --no-edit
+```
+
 Global Traceroute used for debugging when the server is not reachable
 https://globalping.io/cli
