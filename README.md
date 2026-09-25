@@ -17,3 +17,6 @@ git commit --amend --no-edit
 
 Global Traceroute used for debugging when the server is not reachable
 https://globalping.io/cli
+
+Personal Finance App:
+https://personal-finance-100-bhkiinochq-el.a.run.app/ 
